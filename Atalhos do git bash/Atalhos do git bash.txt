@@ -1,11 +1,12 @@
-git status
+git status , verificar a  situção se houve  mudanças
 
-git add .
+git add . adiciona as alterações
 
-git commit -m
+git commit -m "msg" atualiza  as alterações com uma msg
 
-cd
-git push origin main
+cd abre uma pasta
+
+git push origin main - atualiza na nuvem  as mudanças na maquina.
 
 ## Link para  os comandos do git bash
 (https://comandosgit.github.io/) 
