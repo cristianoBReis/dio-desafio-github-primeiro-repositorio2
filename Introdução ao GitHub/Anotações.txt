@@ -3,4 +3,4 @@ O git bash e um treminal extendido para otimizar o uso
 do Git.
 
 
-*atualizado  codigo.
+*Entregue projeto git  02-12-2022.
